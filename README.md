@@ -25,7 +25,7 @@ Buscando minha primeira oportunidade na área.
 
 ## 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DpooL033&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DpooL033&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
