@@ -1,30 +1,38 @@
-# Olá! Eu sou o Geovane 👋
+# Olá! Eu sou o Geovane 👋  
 
-🎯 Em transição para QA (Quality Assurance)  
-🧪 Focado em testes manuais e análise de sistemas  
-📚 Aprendendo todos os dias  
-
+🧪 QA em formação | Focado em qualidade e análise de sistemas  
 ---
 
 ## 🚀 Sobre mim
-Estou desenvolvendo minhas habilidades em QA com foco em:
 
-- Casos de teste  
-- Identificação de bugs  
-- Documentação  
-- Pensamento analítico  
+Atualmente estou em transição para QA (Quality Assurance), focado em desenvolver habilidades práticas em testes de software.
+
+Tenho trabalhado com:
+- Criação de casos de teste  
+- Identificação e análise de bugs  
+- Documentação de testes  
+- Pensamento analítico aplicado a sistemas  
+
+Buscando minha primeira oportunidade na área.
 
 ---
 
-## 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+## 🧰 Tecnologias & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DpooL033&show_icons=true&theme=dark)
 
 ---
 
 ## 📌 Projetos
-🔹 QA Portfolio (em construção)  
-🔹 Testes práticos  
 
+🔹 QA Portfolio (em construção)  
+🔹 Testes práticos com OrangeHRM  
 ---
 
 ## 📈 Objetivo
