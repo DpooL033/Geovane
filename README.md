@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou o Geovane 👋</h1>
-<h3 align="center">QA Engineer em formação | Testes Manuais | Qualidade de Software</h3>
+<h3 align="center">QA Engineer em formação | Testes Manuais | Automação | Qualidade de Software</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/QA-Em%20Formação-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Foco-Testes%20Manuais-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-Automação-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Aprendendo%20Todo%20Dia-orange?style=for-the-badge"/>
 </p>
 
@@ -30,16 +30,28 @@ Acredito que qualidade não é apenas encontrar bugs,
 - ✅ Escrita de Bug Reports profissionais
 - ✅ Criação de Casos de Teste
 - ✅ Testes exploratórios em aplicações web
-- 🔄 Testes de API com Postman (em andamento)
-- 🔄 SQL para QA (em breve)
-- 🔄 Automação com Selenium/Python (em breve)
+- ✅ Testes de API com Postman — CRUD completo
+- ✅ Versionamento com Git pelo terminal
+- ✅ SQL básico para QA
+- ✅ Automação de Testes com Selenium e Pytest
+- 🔄 Expandindo cobertura de testes automatizados
+
+---
+
+## 🤖 Testes Automatizados
+
+5 testes automatizados rodando no Selenium + Pytest:
+- Login válido e inválido
+- Adicionar produto ao carrinho
+- Fluxo completo de checkout
+- Logout do sistema
 
 ---
 
 ## 🧰 Ferramentas & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,python,selenium&theme=dark" />
 </p>
 
 ---
@@ -48,7 +60,7 @@ Acredito que qualidade não é apenas encontrar bugs,
 
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
-| [QA Portfolio](https://github.com/DpooL033/QA-Portifolio) | Bug reports, casos de teste e evidências | 🚧 Em construção |
+| [QA Portfolio](https://github.com/Geovane-Rocha/QA-Portifolio) | Bug reports, casos de teste, automação | 🚧 Em construção |
 
 ---
 
