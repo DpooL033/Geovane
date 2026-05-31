@@ -7,7 +7,6 @@
 
   <img src="https://img.shields.io/badge/ISTQB-Estudando-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Aprendendo%20Todo%20Dia-purple?style=for-the-badge"/>
-=======
   <img src="https://img.shields.io/badge/Status-Aprendendo%20Todo%20Dia-orange?style=for-the-badge"/>
 </p>
 
