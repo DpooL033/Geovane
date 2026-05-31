@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Status-Aprendendo%20Todo%20Dia-purple?style=for-the-badge"/>
 =======
   <img src="https://img.shields.io/badge/Status-Aprendendo%20Todo%20Dia-orange?style=for-the-badge"/>
-31848153c0991053abeb2e3ae4cc478b81659d72
 </p>
 
 ---
@@ -51,7 +50,6 @@ Acredito que qualidade não é apenas encontrar bugs,
 - ✅ SQL básico para QA
 - ✅ Automação de Testes com Selenium e Pytest
 - 🔄 Expandindo cobertura de testes automatizados
-31848153c0991053abeb2e3ae4cc478b81659d72
 
 ---
 
@@ -81,7 +79,6 @@ Acredito que qualidade não é apenas encontrar bugs,
 - Adicionar produto ao carrinho
 - Fluxo completo de checkout
 - Logout do sistema
-31848153c0991053abeb2e3ae4cc478b81659d72
 
 ---
 
@@ -105,7 +102,6 @@ Acredito que qualidade não é apenas encontrar bugs,
 | Projeto | Descrição | Status |
 |--------|-----------|--------|
 | [QA Portfolio](https://github.com/Geovane-Rocha/QA-Portifolio) | Bug reports, casos de teste, automação | 🚧 Em construção |
-31848153c0991053abeb2e3ae4cc478b81659d72
 
 ---
 
