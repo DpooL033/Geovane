@@ -42,11 +42,6 @@ Acredito que qualidade não é apenas encontrar bugs,
 - ✅ Automação de Testes com Selenium e Pytest
 - ✅ Relatório HTML de testes automatizados
 - 🔄 Estudando para ISTQB Foundation
-
-- ✅ Testes de API com Postman — CRUD completo
-- ✅ Versionamento com Git pelo terminal
-- ✅ SQL básico para QA
-- ✅ Automação de Testes com Selenium e Pytest
 - 🔄 Expandindo cobertura de testes automatizados
 
 ---
